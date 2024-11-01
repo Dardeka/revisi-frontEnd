@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="ShopEasily™ - Product Details" />
     <title>ShopEasily™ - Product Details</title>
-    <link rel="stylesheet" type="text/css" href="product-details.css" />
+    <link rel="stylesheet" href="styling/product-details.css">
     <link
       rel="apple-touch-icon"
       sizes="180x180"
@@ -153,6 +153,7 @@
         <div class="wrap">
           <div class="desc">
             <h2>Iphone 11</h2>
+            <br>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi
               sit dicta sed repudiandae. Tempore culpa omnis hic nemo nobis
